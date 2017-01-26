@@ -1,0 +1,21 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "daemon": "^1.1.0",
+    "dotenv": "^4.0.0",
+    "hangouts-bot": "^0.2.1",
+    "node-cmd": "^1.2.0",
+    "node-rest-client": "^2.0.1",
+    "node-wifiscanner": "^0.2.1",
+    "wifi_location": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
